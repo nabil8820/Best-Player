@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    background-color: black;
+    min-height: 400px;
+}
+.heading-text h1 {
+    font-size: 70px;
+    color: #FF5E19;
+    font-family: 'Berkshire Swash', cursive;
+}
+.heading-text p {
+    font-size: 20px;
+    color: #ffffff;
+}
