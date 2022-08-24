@@ -19,9 +19,6 @@ header {
 /* header section end */
 .col .card{
     background: black;
-}
-.card{
-    background-color: black;
     text-align: center;
 }
 .card-title {
