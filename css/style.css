@@ -2,9 +2,10 @@
     margin: 0px;
     padding: 0px;
 }
+/* header section start */
 header {
     background-color: black;
-    min-height: 400px;
+    min-height: 300px;
 }
 .heading-text h1 {
     font-size: 70px;
@@ -14,4 +15,18 @@ header {
 .heading-text p {
     font-size: 20px;
     color: #ffffff;
+}
+/* header section end */
+.col .card{
+    background: black;
+}
+.card{
+    background-color: black;
+    text-align: center;
+}
+.card-title {
+    color: #ffffff;
+}
+.card-text {
+    color: #B3B3B3;
 }
